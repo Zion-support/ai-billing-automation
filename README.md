@@ -16,3 +16,12 @@ AI Billing Automation — automated invoicing, usage-based billing and revenue o
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
+
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) — https://ziontechgroup.com/ai-automation-builder/
+- [zion-devops-automation](https://github.com/Zion-support/zion-devops-automation) — https://ziontechgroup.com/zion-devops-automation/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
