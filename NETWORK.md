@@ -1,16 +1,10 @@
-# 👐 Zion App Network — Interlinks
+# AI Billing Automation
 
-**ai-billing-automation** is part of the Zion Tech Group app network (630+ apps).
+Billing automation.
 
-- 🗂 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) · [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) · [zion-invoice-genius](https://github.com/Zion-support/zion-invoice-genius) · [ai-finops-suite](https://github.com/Zion-support/ai-finops-suite) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite)
 
-## Related apps
-- [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) — automated bookkeeping
-- [zion-invoice-genius](https://github.com/Zion-support/zion-invoice-genius) — AI invoicing
-- [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) — cloud cost breakdown
-- [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) — AI payback & TCO
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
